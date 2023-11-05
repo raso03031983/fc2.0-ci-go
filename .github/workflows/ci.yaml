@@ -33,5 +33,5 @@ jobs:
         with:
           push: true
           context: .
-          tags: raso03031983/fc2.0-ci-go:latest
+          tags: raso03/fc2.0-ci-go:latest
 
