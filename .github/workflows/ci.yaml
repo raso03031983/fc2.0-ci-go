@@ -26,3 +26,5 @@ jobs:
         with:
           push: false
           tags: raso03031983/fc2.0-ci-go:latest
+
+          
